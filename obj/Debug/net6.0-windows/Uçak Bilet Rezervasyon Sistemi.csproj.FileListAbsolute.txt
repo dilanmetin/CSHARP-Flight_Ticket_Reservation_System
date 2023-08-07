@@ -1,0 +1,18 @@
+C:\Users\dilan\OneDrive\Masaüstü\C#\Masaüstü Uygulamaları\Örnekler\Uçak Bilet Rezervasyon Sistemi\bin\Debug\net6.0-windows\Uçak Bilet Rezervasyon Sistemi.exe
+C:\Users\dilan\OneDrive\Masaüstü\C#\Masaüstü Uygulamaları\Örnekler\Uçak Bilet Rezervasyon Sistemi\bin\Debug\net6.0-windows\Uçak Bilet Rezervasyon Sistemi.deps.json
+C:\Users\dilan\OneDrive\Masaüstü\C#\Masaüstü Uygulamaları\Örnekler\Uçak Bilet Rezervasyon Sistemi\bin\Debug\net6.0-windows\Uçak Bilet Rezervasyon Sistemi.runtimeconfig.json
+C:\Users\dilan\OneDrive\Masaüstü\C#\Masaüstü Uygulamaları\Örnekler\Uçak Bilet Rezervasyon Sistemi\bin\Debug\net6.0-windows\Uçak Bilet Rezervasyon Sistemi.dll
+C:\Users\dilan\OneDrive\Masaüstü\C#\Masaüstü Uygulamaları\Örnekler\Uçak Bilet Rezervasyon Sistemi\bin\Debug\net6.0-windows\Uçak Bilet Rezervasyon Sistemi.pdb
+C:\Users\dilan\OneDrive\Masaüstü\C#\Masaüstü Uygulamaları\Örnekler\Uçak Bilet Rezervasyon Sistemi\obj\Debug\net6.0-windows\Uçak Bilet Rezervasyon Sistemi.csproj.AssemblyReference.cache
+C:\Users\dilan\OneDrive\Masaüstü\C#\Masaüstü Uygulamaları\Örnekler\Uçak Bilet Rezervasyon Sistemi\obj\Debug\net6.0-windows\Uçak_Bilet_Rezervasyon_Sistemi.Form1.resources
+C:\Users\dilan\OneDrive\Masaüstü\C#\Masaüstü Uygulamaları\Örnekler\Uçak Bilet Rezervasyon Sistemi\obj\Debug\net6.0-windows\Uçak_Bilet_Rezervasyon_Sistemi.Properties.Resources.resources
+C:\Users\dilan\OneDrive\Masaüstü\C#\Masaüstü Uygulamaları\Örnekler\Uçak Bilet Rezervasyon Sistemi\obj\Debug\net6.0-windows\Uçak Bilet Rezervasyon Sistemi.csproj.GenerateResource.cache
+C:\Users\dilan\OneDrive\Masaüstü\C#\Masaüstü Uygulamaları\Örnekler\Uçak Bilet Rezervasyon Sistemi\obj\Debug\net6.0-windows\Uçak Bilet Rezervasyon Sistemi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dilan\OneDrive\Masaüstü\C#\Masaüstü Uygulamaları\Örnekler\Uçak Bilet Rezervasyon Sistemi\obj\Debug\net6.0-windows\Uçak Bilet Rezervasyon Sistemi.AssemblyInfoInputs.cache
+C:\Users\dilan\OneDrive\Masaüstü\C#\Masaüstü Uygulamaları\Örnekler\Uçak Bilet Rezervasyon Sistemi\obj\Debug\net6.0-windows\Uçak Bilet Rezervasyon Sistemi.AssemblyInfo.cs
+C:\Users\dilan\OneDrive\Masaüstü\C#\Masaüstü Uygulamaları\Örnekler\Uçak Bilet Rezervasyon Sistemi\obj\Debug\net6.0-windows\Uçak Bilet Rezervasyon Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\dilan\OneDrive\Masaüstü\C#\Masaüstü Uygulamaları\Örnekler\Uçak Bilet Rezervasyon Sistemi\obj\Debug\net6.0-windows\Uçak Bilet Rezervasyon Sistemi.dll
+C:\Users\dilan\OneDrive\Masaüstü\C#\Masaüstü Uygulamaları\Örnekler\Uçak Bilet Rezervasyon Sistemi\obj\Debug\net6.0-windows\refint\Uçak Bilet Rezervasyon Sistemi.dll
+C:\Users\dilan\OneDrive\Masaüstü\C#\Masaüstü Uygulamaları\Örnekler\Uçak Bilet Rezervasyon Sistemi\obj\Debug\net6.0-windows\Uçak Bilet Rezervasyon Sistemi.pdb
+C:\Users\dilan\OneDrive\Masaüstü\C#\Masaüstü Uygulamaları\Örnekler\Uçak Bilet Rezervasyon Sistemi\obj\Debug\net6.0-windows\Uçak Bilet Rezervasyon Sistemi.genruntimeconfig.cache
+C:\Users\dilan\OneDrive\Masaüstü\C#\Masaüstü Uygulamaları\Örnekler\Uçak Bilet Rezervasyon Sistemi\obj\Debug\net6.0-windows\ref\Uçak Bilet Rezervasyon Sistemi.dll
